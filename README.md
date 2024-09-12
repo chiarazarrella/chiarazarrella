@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chiara! I am a master student from Politecnico di Torino, currently studying Computer Engineering.
+- 👋 Hi, I’m Chiara! I am a master student from Politecnico di Torino, currently studying Computer Engineering. At the moment, I am in Louvain-la-neuve for an Erasmus program :)
 - 📫 How to reach me: cezarrella@gmail.com or chiaraemanuela.zarrella@polito.it
 - 😄 Pronouns: she/her
 
