@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chiara! I am a master student from Politecnico di Torino, currently studying Computer Engineering. At the moment, I am an Erasmus Student in UCLouvain.
-- 📫 How to reach me: cezarrella@gmail.com or chiaraemanuela.zarrella@polito.it
+- 📫 How to reach me: cezarrella@gmail.com - chiaraemanuela.zarrella@polito.it - chiara.zarrella@student.uclouvain.be
 - 😄 Pronouns: she/her
 
 <!---
